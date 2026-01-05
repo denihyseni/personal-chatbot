@@ -38,7 +38,8 @@ def get_env_setting(name: str, default=None, required: bool = False):
 # See https://docs.djangoproject.com/en/5.2/howto/deployment/checklist/
  
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = get_env_setting("DJANGO_SECRET_KEY", required=False)
+# SECRET_KEY = get_env_setting("DJANGO_SECRET_KEY", required=False)
+SECRET_KEY = get_env_setting("DJANGO_SECRET_KEY", "django-insecure-fallback-dev-key")
  
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = get_env_setting("DJANGO_DEBUG", "True").lower() == "true"
