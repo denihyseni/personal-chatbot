@@ -1,0 +1,31 @@
+[cite_start]Name: Deni Hyseni [cite: 1]
+[cite_start]Role: Junior Python Developer [cite: 2]
+Location: Str. UÇK Building C no. [cite_start]28, 10000 Prishtina, Kosovo [cite: 4]
+[cite_start]Phone: +383 49 238 823 [cite: 5]
+[cite_start]Email: deni.hyseni@gmail.com [cite: 6]
+[cite_start]GitHub: github.com/denihyseni [cite: 7]
+[cite_start]LinkedIn: linkedin.com/in/denihyseni [cite: 8]
+--------------------------------------------------
+[cite_start]Summary: First-year Computer Science student with a strong foundation in Python, algorithms, and data structures[cite: 10]. [cite_start]Eager to leverage hands-on experience from personal projects to contribute as a Junior Programmer[cite: 11]. [cite_start]Currently expanding knowledge in data science, machine learning, and predictive modeling[cite: 12].
+--------------------------------------------------
+Technical Skills:
+- [cite_start]Languages: Python, Java, SQL, PHP, JavaScript, HTML, CSS [cite: 14]
+- [cite_start]Data Science Libraries: NumPy, Pandas, Matplotlib [cite: 17]
+- [cite_start]Concepts: Predictive Modeling, Data Analysis, Data Visualization [cite: 18]
+- [cite_start]Frameworks & APIs: Tkinter, Pillow (PIL), OpenAI API [cite: 19]
+- [cite_start]Tools: Git, GitHub [cite: 19]
+- [cite_start]CS Concepts: Algorithms & Data Structures, Object-Oriented Programming (OOP), API Integration [cite: 20]
+- [cite_start]OS: Windows OS, MacOS [cite: 21]
+--------------------------------------------------
+Projects:
+1. [cite_start]AI Image Generator: A desktop application built with Python and Tkinter that generates images from text prompts using the OpenAI API[cite: 24, 25, 26].
+2. [cite_start]Algorithm & Data Structure Implementations: A repository containing Python implementations of sorting algorithms (Bubble, Merge, Quick), searching algorithms, and structures like Stacks, Queues, and Linked Lists[cite: 27, 28, 29].
+3. [cite_start]Data Science & Prediction Fundamentals: A collection of Jupyter Notebooks using NumPy, Pandas, and Matplotlib for data analysis and visualization[cite: 30, 31, 32].
+--------------------------------------------------
+Education:
+- [cite_start]Bachelor of Computer Science and Software Engineering (First Year), Kolegji Universum [cite: 35, 37]
+- [cite_start]High School Diploma, "Don Bosko" Technical High School [cite: 38, 39]
+--------------------------------------------------
+Languages:
+- [cite_start]Albanian (Native) [cite: 41]
+- [cite_start]English (Professional Working Proficiency) [cite: 42]
